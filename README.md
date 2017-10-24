@@ -6,3 +6,6 @@ dashboards. The files in this repo are instructional and are paired with
 a short blog post on the subject.
 
 TODO: \<link to blog post\>
+
+NOTE: There is no support for anything contained in this repo beyond the blog
+post.
